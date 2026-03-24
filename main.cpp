@@ -96,7 +96,8 @@ void test()
         return;
     }
 
-    readArticle(); 
+    readArticle();
+    cout << "Test is starting...\n":
     int points = 0;
     string a;
 
