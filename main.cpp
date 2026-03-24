@@ -98,6 +98,7 @@ void test()
 
     readArticle(); 
     int points = 0;
+    cout << "Test is starting...\n";
     string a;
 
     int r = rand() % 2;
